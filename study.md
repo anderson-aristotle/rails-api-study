@@ -27,13 +27,9 @@ Please note:
     - [Rails Routing from the Outside](http://guides.rubyonrails.org/routing.html)
         (up to and including chapter 2.6)
     - [Action Controller Overview](http://guides.rubyonrails.org/action_controller_overview.html)
-        (up to and including chapter 4.5)
+        (up to and including chapter 3)
     - [The Rails Command Line](http://guides.rubyonrails.org/command_line.html)
-        (up to and including chapter 1.4)
-
-## Additional Resources
-
-- [Getting Started with Rails — Ruby on Rails Guides](http://guides.rubyonrails.org/getting_started.html)
+        (sections 1.2 through 1.5)
 
 ## Define Model Responsibilities
 
@@ -69,3 +65,12 @@ the parts of Rails interact to produce and send a response.
 ```md
 <!-- your answer here -->
 ```
+
+## Additional Resources
+
+- [Getting Started with Rails — Ruby on Rails Guides](http://guides.rubyonrails.org/getting_started.html)
+- Better Explained
+    - [Starting Ruby on Rails: What I Wish I Knew](http://betterexplained.com/articles/starting-ruby-on-rails-what-i-wish-i-knew/)
+        (sections 3 and 4)
+    - [Intermediate Rails: Understanding Models, Views and Controllers](http://betterexplained.com/articles/intermediate-rails-understanding-models-views-and-controllers/)
+        (up to and including "Quick Controllers")
