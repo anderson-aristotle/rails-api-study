@@ -13,33 +13,33 @@ responses to incoming web requests.
 
 ## Prerequisites
 
--   [HTTP Study](https://github.com/ga-wdi-boston/http-study)
--   [JSON Study](https://github.com/ga-wdi-boston/json-study)
+- [HTTP Study](https://git.generalassemb.ly/ga-wdi-boston/http-study)
+- [JSON Study](https://git.generalassemb.ly/ga-wdi-boston/json-study)
 
 ## Objectives
 
 By the end of this, developers should be able to:
 
--   Define the responsibilities of the model layer in Rails.
--   Define the responsibilities of the controller layer in Rails.
--   Define the responsibilities of the router in Rails.
--   Diagram how a Rails API responds to a web request.
+- Define the responsibilities of the model layer in Rails.
+- Define the responsibilities of the controller layer in Rails.
+- Define the responsibilities of the router in Rails.
+- Diagram how a Rails API responds to a web request.
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Create and checkout a new branch, named `response`.
-1.  Follow the directions given in [`study.md`](study.md).
-1.  When finished, push to your fork and submit a pull request.
+1. Fork and clone this repository.
+1. Change into the new directory.
+1. Create and checkout a new branch, named `response`.
+1. Follow the directions given in [`study.md`](study.md).
+1. When finished, push to your fork and submit a pull request.
 
-You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
+You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
 related to [forking,
-cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
-requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
+cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
+requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
